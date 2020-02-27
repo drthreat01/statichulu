@@ -1,0 +1,28 @@
+ html {
+     box-sizing: border-box;
+     height: 100%;
+ }
+ html{
+     display: block;
+     color: -internal-root-color;
+ }
+body {
+    margin: 0;
+}
+head {
+    display: none;
+}
+
+body {
+    font-family: 'Graphik', Helvetica, Arial, sans-serif;
+    background-color: #f5f6f7;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #292b2c;
+    height: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+
